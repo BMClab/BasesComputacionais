@@ -5,8 +5,7 @@
 **Renato Naville Watanabe**
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BMClab/BasesComputacionais/)  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BMClab/BasesComputacionais/master?labpath=README.ipynb)   JupyterLab  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BMClab/BasesComputacionais/master?filepath=README.ipynb)   Classic Notebook  
+
 
 ### Semana 1: [Apresentação](https://colab.research.google.com/github/BMClab/BasesComputacionais/blob/master/aula1/Apresenta%C3%A7%C3%A3o.ipynb)
 
