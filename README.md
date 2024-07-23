@@ -19,7 +19,7 @@
 
 ### Semana 6: [Estruturas de repetição](https://colab.research.google.com/github/BMClab/BasesComputacionais/blob/master/aula6/EstruturasDeRepeticao.ipynb)
 
-### Semana 7: [Estruturas de repetição 2](https://colab.research.google.com/github/BMClab/BasesComputacionais/blob/master/aula6/EstruturasDeRepeticao.ipynb)
+### Semana 7: [Estruturas de repetição 2](https://colab.research.google.com/github/BMClab/BasesComputacionais/blob/master/aula7/EstruturasDeRepeticaoTabelas.ipynb)
 
 ### Semana 8: [Noções de Estatística](https://colab.research.google.com/github/BMClab/BasesComputacionais/blob/master/aula7/Estatistica.ipynb)
 
