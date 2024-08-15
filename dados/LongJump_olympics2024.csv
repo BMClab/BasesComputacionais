@@ -1,37 +1,37 @@
 Atleta,País,Fase,Tentativa,Distância,Vento
-Miltiadis TENTOGLOU,GRE,Qualificação,1,8.32,-0.6
-Mattia FURLANI,ITA,Qualificação,1,8.01,0.1
-Jacob FINCHAM-DUKES,GBR,Qualificação,1,0,-0.9
-Carey MCLEOD,JAM,Qualificação,1,7.77,-1.2
-Simon BATZ,GER,Qualificação,1,0,-1.3
-Emiliano LASA,URU,Qualificação,1,7.87,-0.7
-Bozhidar SARÂBOYUKOV,BUL,Qualificação,1,0,-1.2
-Jeremiah DAVIS,USA,Qualificação,1,7.83,-0.9
-Yuki HASHIOKA,JPN,Qualificação,1,0,-0.4
-Anvar ANVAROV,UZB,Qualificação,1,7.57,-0.8
-Jovan VAN VUUREN,RSA,Qualificação,1,7.7,-0.5
-Yuhao SHI,CHN,Qualificação,1,7.68,-0.6
-Alejandro PARADA,CUB,Qualificação,1,7.62,0.5
-Liam ADCOCK,AUS,Qualificação,1,7.41,-0.3
-Mohammad Amin ALSALAMI,EOR,Qualificação,1,7.03,-1.1
-Petr MEINDLSCHMID,CZE,Qualificação,1,6.97,-1
-Lucas Marcelino DOS SANTOS,BRA,Qualificação,1,0,-1
-Radek JUŠKA,CZE,Qualificação,1,7.85,0
-Jianan WANG,CHN,Qualificação,1,8.12,0.5
-Simon EHAMMER,SUI,Qualificação,1,7.69,0.2
-Filip PRAVDICA,CRO,Qualificação,1,7.68,0.7
-Wayne PINNOCK,JAM,Qualificação,1,7.96,1.6
-Mingkun ZHANG,CHN,Qualificação,1,7.91,1.5
-Arnovis DALMERO,COL,Qualificação,1,7.92,1.3
-Thobias MONTLER,SWE,Qualificação,1,0,1.2
-Christopher MITREVSKI,AUS,Qualificação,1,7.66,0.8
-Tajay GAYLE,JAM,Qualificação,1,7.78,-1.3
-Malcolm CLEMONS,USA,Qualificação,1,7.72,1.5
-Yu-Tang LIN,TPE,Qualificação,1,7.7,-0.6
-Jeswin ALDRIN,IND,Qualificação,1,0,0.4
-Tom CAMPAGNE,FRA,Qualificação,1,7.5,-0.8
-Cheswill JOHNSON,RSA,Qualificação,1,0,2.8
-Jarrion LAWSON,USA,Qualificação,1,0,0.3
+Miltiadis TENTOGLOU,GRE,Classificatória,1,8.32,-0.6
+Mattia FURLANI,ITA,Classificatória,1,8.01,0.1
+Jacob FINCHAM-DUKES,GBR,Classificatória,1,0,-0.9
+Carey MCLEOD,JAM,Classificatória,1,7.77,-1.2
+Simon BATZ,GER,Classificatória,1,0,-1.3
+Emiliano LASA,URU,Classificatória,1,7.87,-0.7
+Bozhidar SARÂBOYUKOV,BUL,Classificatória,1,0,-1.2
+Jeremiah DAVIS,USA,Classificatória,1,7.83,-0.9
+Yuki HASHIOKA,JPN,Classificatória,1,0,-0.4
+Anvar ANVAROV,UZB,Classificatória,1,7.57,-0.8
+Jovan VAN VUUREN,RSA,Classificatória,1,7.7,-0.5
+Yuhao SHI,CHN,Classificatória,1,7.68,-0.6
+Alejandro PARADA,CUB,Classificatória,1,7.62,0.5
+Liam ADCOCK,AUS,Classificatória,1,7.41,-0.3
+Mohammad Amin ALSALAMI,EOR,Classificatória,1,7.03,-1.1
+Petr MEINDLSCHMID,CZE,Classificatória,1,6.97,-1
+Lucas Marcelino DOS SANTOS,BRA,Classificatória,1,0,-1
+Radek JUŠKA,CZE,Classificatória,1,7.85,0
+Jianan WANG,CHN,Classificatória,1,8.12,0.5
+Simon EHAMMER,SUI,Classificatória,1,7.69,0.2
+Filip PRAVDICA,CRO,Classificatória,1,7.68,0.7
+Wayne PINNOCK,JAM,Classificatória,1,7.96,1.6
+Mingkun ZHANG,CHN,Classificatória,1,7.91,1.5
+Arnovis DALMERO,COL,Classificatória,1,7.92,1.3
+Thobias MONTLER,SWE,Classificatória,1,0,1.2
+Christopher MITREVSKI,AUS,Classificatória,1,7.66,0.8
+Tajay GAYLE,JAM,Classificatória,1,7.78,-1.3
+Malcolm CLEMONS,USA,Classificatória,1,7.72,1.5
+Yu-Tang LIN,TPE,Classificatória,1,7.7,-0.6
+Jeswin ALDRIN,IND,Classificatória,1,0,0.4
+Tom CAMPAGNE,FRA,Classificatória,1,7.5,-0.8
+Cheswill JOHNSON,RSA,Classificatória,1,0,2.8
+Jarrion LAWSON,USA,Classificatória,1,0,0.3
 Miltiadis TENTOGLOU,GRE,Final,1,8.27,-0.5
 Wayne PINNOCK,JAM,Final,1,7.84,-1.1
 Mattia FURLANI,ITA,Final,1,8.34,-1
@@ -44,37 +44,37 @@ Filip PRAVDICA,CRO,Final,1,7.72,-0.6
 Radek JUŠKA,CZE,Final,1,7.78,-1.3
 Arnovis DALMERO,COL,Final,1,0,-0.1
 Carey MCLEOD,JAM,Final,1,7.51,-0.5
-Mattia FURLANI,ITA,Qualificação,2,7.95,-1.6
-Jacob FINCHAM-DUKES,GBR,Qualificação,2,7.38,-0.9
-Carey MCLEOD,JAM,Qualificação,2,7.9,-0.2
-Simon BATZ,GER,Qualificação,2,7.9,0.3
-Emiliano LASA,URU,Qualificação,2,7.58,-0.8
-Bozhidar SARÂBOYUKOV,BUL,Qualificação,2,0,-1
-Jeremiah DAVIS,USA,Qualificação,2,7.78,-0.6
-Yuki HASHIOKA,JPN,Qualificação,2,7.72,-1.2
-Anvar ANVAROV,UZB,Qualificação,2,7.77,-0.7
-Jovan VAN VUUREN,RSA,Qualificação,2,0,-1.2
-Yuhao SHI,CHN,Qualificação,2,7.3,-0.9
-Alejandro PARADA,CUB,Qualificação,2,7.02,-1
-Liam ADCOCK,AUS,Qualificação,2,7.56,-0.5
-Mohammad Amin ALSALAMI,EOR,Qualificação,2,7.24,-0.4
-Petr MEINDLSCHMID,CZE,Qualificação,2,0,0
-Lucas Marcelino DOS SANTOS,BRA,Qualificação,2,0,0.3
-Radek JUŠKA,CZE,Qualificação,2,8.15,0.7
-Simon EHAMMER,SUI,Qualificação,2,8.09,-0.3
-Filip PRAVDICA,CRO,Qualificação,2,8.04,1
-Wayne PINNOCK,JAM,Qualificação,2,7.72,0.6
-Mingkun ZHANG,CHN,Qualificação,2,7.88,1.1
-Arnovis DALMERO,COL,Qualificação,2,7.83,0.7
-Thobias MONTLER,SWE,Qualificação,2,0,0.5
-Christopher MITREVSKI,AUS,Qualificação,2,7.79,0.3
-Tajay GAYLE,JAM,Qualificação,2,7.68,-0.2
-Malcolm CLEMONS,USA,Qualificação,2,7.46,-0.6
-Yu-Tang LIN,TPE,Qualificação,2,0,0.4
-Jeswin ALDRIN,IND,Qualificação,2,0,0.2
-Tom CAMPAGNE,FRA,Qualificação,2,0,1.5
-Cheswill JOHNSON,RSA,Qualificação,2,4.49,-0.6
-Jarrion LAWSON,USA,Qualificação,2,0,1.7
+Mattia FURLANI,ITA,Classificatória,2,7.95,-1.6
+Jacob FINCHAM-DUKES,GBR,Classificatória,2,7.38,-0.9
+Carey MCLEOD,JAM,Classificatória,2,7.9,-0.2
+Simon BATZ,GER,Classificatória,2,7.9,0.3
+Emiliano LASA,URU,Classificatória,2,7.58,-0.8
+Bozhidar SARÂBOYUKOV,BUL,Classificatória,2,0,-1
+Jeremiah DAVIS,USA,Classificatória,2,7.78,-0.6
+Yuki HASHIOKA,JPN,Classificatória,2,7.72,-1.2
+Anvar ANVAROV,UZB,Classificatória,2,7.77,-0.7
+Jovan VAN VUUREN,RSA,Classificatória,2,0,-1.2
+Yuhao SHI,CHN,Classificatória,2,7.3,-0.9
+Alejandro PARADA,CUB,Classificatória,2,7.02,-1
+Liam ADCOCK,AUS,Classificatória,2,7.56,-0.5
+Mohammad Amin ALSALAMI,EOR,Classificatória,2,7.24,-0.4
+Petr MEINDLSCHMID,CZE,Classificatória,2,0,0
+Lucas Marcelino DOS SANTOS,BRA,Classificatória,2,0,0.3
+Radek JUŠKA,CZE,Classificatória,2,8.15,0.7
+Simon EHAMMER,SUI,Classificatória,2,8.09,-0.3
+Filip PRAVDICA,CRO,Classificatória,2,8.04,1
+Wayne PINNOCK,JAM,Classificatória,2,7.72,0.6
+Mingkun ZHANG,CHN,Classificatória,2,7.88,1.1
+Arnovis DALMERO,COL,Classificatória,2,7.83,0.7
+Thobias MONTLER,SWE,Classificatória,2,0,0.5
+Christopher MITREVSKI,AUS,Classificatória,2,7.79,0.3
+Tajay GAYLE,JAM,Classificatória,2,7.68,-0.2
+Malcolm CLEMONS,USA,Classificatória,2,7.46,-0.6
+Yu-Tang LIN,TPE,Classificatória,2,0,0.4
+Jeswin ALDRIN,IND,Classificatória,2,0,0.2
+Tom CAMPAGNE,FRA,Classificatória,2,0,1.5
+Cheswill JOHNSON,RSA,Classificatória,2,4.49,-0.6
+Jarrion LAWSON,USA,Classificatória,2,0,1.7
 Miltiadis TENTOGLOU,GRE,Final,2,8.48,0
 Wayne PINNOCK,JAM,Final,2,8.36,-0.2
 Mattia FURLANI,ITA,Final,2,8.25,0.9
@@ -87,37 +87,37 @@ Filip PRAVDICA,CRO,Final,2,7.9,0.8
 Radek JUŠKA,CZE,Final,2,7.69,0.2
 Arnovis DALMERO,COL,Final,2,7.83,0.2
 Carey MCLEOD,JAM,Final,2,7.16,-1.6
-Mattia FURLANI,ITA,Qualificação,3,0,0.3
-Jacob FINCHAM-DUKES,GBR,Qualificação,3,7.96,-0.1
-Carey MCLEOD,JAM,Qualificação,3,0,-0.1
-Simon BATZ,GER,Qualificação,3,7.6,-0.7
-Emiliano LASA,URU,Qualificação,3,7.7,-1.2
-Bozhidar SARÂBOYUKOV,BUL,Qualificação,3,7.87,1.2
-Jeremiah DAVIS,USA,Qualificação,3,7.87,-0.7
-Yuki HASHIOKA,JPN,Qualificação,3,7.81,0
-Anvar ANVAROV,UZB,Qualificação,3,7.77,-0.4
-Jovan VAN VUUREN,RSA,Qualificação,3,7.41,-0.5
-Yuhao SHI,CHN,Qualificação,3,7.68,-0.4
-Alejandro PARADA,CUB,Qualificação,3,0,-1
-Liam ADCOCK,AUS,Qualificação,3,7.29,-0.8
-Mohammad Amin ALSALAMI,EOR,Qualificação,3,7.24,-1
-Petr MEINDLSCHMID,CZE,Qualificação,3,0,-0.1
-Lucas Marcelino DOS SANTOS,BRA,Qualificação,3,0,-0.7
-Jianan WANG,CHN,Qualificação,3,0,0
-Simon EHAMMER,SUI,Qualificação,3,6.62,-2.9
-Filip PRAVDICA,CRO,Qualificação,3,7.59,-0.7
-Wayne PINNOCK,JAM,Qualificação,3,7.68,-2.4
-Mingkun ZHANG,CHN,Qualificação,3,7.92,0
-Arnovis DALMERO,COL,Qualificação,3,7.78,2.2
-Thobias MONTLER,SWE,Qualificação,3,7.82,0.3
-Christopher MITREVSKI,AUS,Qualificação,3,6.47,-1.6
-Tajay GAYLE,JAM,Qualificação,3,7.63,0.7
-Malcolm CLEMONS,USA,Qualificação,3,7.72,-0.1
-Yu-Tang LIN,TPE,Qualificação,3,7.66,0.1
-Jeswin ALDRIN,IND,Qualificação,3,7.61,-0.1
-Tom CAMPAGNE,FRA,Qualificação,3,7.51,0.3
-Cheswill JOHNSON,RSA,Qualificação,3,0,-1.8
-Jarrion LAWSON,USA,Qualificação,3,0,0.3
+Mattia FURLANI,ITA,Classificatória,3,0,0.3
+Jacob FINCHAM-DUKES,GBR,Classificatória,3,7.96,-0.1
+Carey MCLEOD,JAM,Classificatória,3,0,-0.1
+Simon BATZ,GER,Classificatória,3,7.6,-0.7
+Emiliano LASA,URU,Classificatória,3,7.7,-1.2
+Bozhidar SARÂBOYUKOV,BUL,Classificatória,3,7.87,1.2
+Jeremiah DAVIS,USA,Classificatória,3,7.87,-0.7
+Yuki HASHIOKA,JPN,Classificatória,3,7.81,0
+Anvar ANVAROV,UZB,Classificatória,3,7.77,-0.4
+Jovan VAN VUUREN,RSA,Classificatória,3,7.41,-0.5
+Yuhao SHI,CHN,Classificatória,3,7.68,-0.4
+Alejandro PARADA,CUB,Classificatória,3,0,-1
+Liam ADCOCK,AUS,Classificatória,3,7.29,-0.8
+Mohammad Amin ALSALAMI,EOR,Classificatória,3,7.24,-1
+Petr MEINDLSCHMID,CZE,Classificatória,3,0,-0.1
+Lucas Marcelino DOS SANTOS,BRA,Classificatória,3,0,-0.7
+Jianan WANG,CHN,Classificatória,3,0,0
+Simon EHAMMER,SUI,Classificatória,3,6.62,-2.9
+Filip PRAVDICA,CRO,Classificatória,3,7.59,-0.7
+Wayne PINNOCK,JAM,Classificatória,3,7.68,-2.4
+Mingkun ZHANG,CHN,Classificatória,3,7.92,0
+Arnovis DALMERO,COL,Classificatória,3,7.78,2.2
+Thobias MONTLER,SWE,Classificatória,3,7.82,0.3
+Christopher MITREVSKI,AUS,Classificatória,3,6.47,-1.6
+Tajay GAYLE,JAM,Classificatória,3,7.63,0.7
+Malcolm CLEMONS,USA,Classificatória,3,7.72,-0.1
+Yu-Tang LIN,TPE,Classificatória,3,7.66,0.1
+Jeswin ALDRIN,IND,Classificatória,3,7.61,-0.1
+Tom CAMPAGNE,FRA,Classificatória,3,7.51,0.3
+Cheswill JOHNSON,RSA,Classificatória,3,0,-1.8
+Jarrion LAWSON,USA,Classificatória,3,0,0.3
 Miltiadis TENTOGLOU,GRE,Final,3,8.24,-0.4
 Wayne PINNOCK,JAM,Final,3,7.99,0
 Mattia FURLANI,ITA,Final,3,0,-0.5
