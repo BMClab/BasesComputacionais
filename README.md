@@ -23,8 +23,8 @@
 
 ### Semana 8: [Noções de Estatística](https://colab.research.google.com/github/BMClab/BasesComputacionais/blob/master/aula8/Estatistica.ipynb)
 
-### Semana 9: [Funções](https://colab.research.google.com/github/BMClab/BasesComputacionais/blob/master/aula8/Funcoes.ipynb)
+### Semana 9: [Funções](https://colab.research.google.com/github/BMClab/BasesComputacionais/blob/master/aula9/Funcoes.ipynb)
 
-### Semana 10: [Regressão](https://colab.research.google.com/github/BMClab/BasesComputacionais/blob/master/aula9/Regress%C3%A3o.ipynb)
+### Semana 10: [Regressão](https://colab.research.google.com/github/BMClab/BasesComputacionais/blob/master/aula10/Regress%C3%A3o.ipynb)
 
-### Semana 11: [Exemplos de modelagem](https://colab.research.google.com/github/BMClab/BasesComputacionais/blob/master/aula10/Modelagem.ipynb#scrollTo=si9-LI1y3r7U) 
+### Semana 11: [Exemplos de modelagem](https://colab.research.google.com/github/BMClab/BasesComputacionais/blob/master/aula11/Modelagem.ipynb#scrollTo=si9-LI1y3r7U) 
